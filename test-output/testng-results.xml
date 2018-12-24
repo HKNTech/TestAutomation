@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="168364" started-at="2018-12-23T09:01:59Z" finished-at="2018-12-23T09:04:48Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="168364" started-at="2018-12-23T09:01:59Z" finished-at="2018-12-23T09:04:48Z">
+      <class name="com.qa.testcases.GetEmployeeGMInfo">
+        <test-method status="PASS" signature="getEmployeeGMTest()[pri:0, instance:com.qa.testcases.GetEmployeeGMInfo@7eac9008]" name="getEmployeeGMTest" duration-ms="26488" started-at="2018-12-23T09:02:55Z" finished-at="2018-12-23T09:03:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getEmployeeGMTest -->
+      </class> <!-- com.qa.testcases.GetEmployeeGMInfo -->
+      <class name="com.qa.testcases.GetEmployeeDirectorInfo">
+        <test-method status="PASS" signature="getEmployeeDirectorTest()[pri:0, instance:com.qa.testcases.GetEmployeeDirectorInfo@1fa121e2]" name="getEmployeeDirectorTest" duration-ms="26395" started-at="2018-12-23T09:02:29Z" finished-at="2018-12-23T09:02:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getEmployeeDirectorTest -->
+      </class> <!-- com.qa.testcases.GetEmployeeDirectorInfo -->
+      <class name="com.qa.testcases.GetEmployeeVPInfo">
+        <test-method status="PASS" signature="getEmployeeVPTest()[pri:0, instance:com.qa.testcases.GetEmployeeVPInfo@4116aac9]" name="getEmployeeVPTest" duration-ms="26292" started-at="2018-12-23T09:03:22Z" finished-at="2018-12-23T09:03:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getEmployeeVPTest -->
+      </class> <!-- com.qa.testcases.GetEmployeeVPInfo -->
+      <class name="com.qa.testcases.GetEmployeeSectionManagerInfo">
+        <test-method status="PASS" signature="getEmployeeSectionManagerTest()[pri:0, instance:com.qa.testcases.GetEmployeeSectionManagerInfo@3cd3e762]" name="getEmployeeSectionManagerTest" duration-ms="29442" started-at="2018-12-23T09:01:59Z" finished-at="2018-12-23T09:02:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getEmployeeSectionManagerTest -->
+      </class> <!-- com.qa.testcases.GetEmployeeSectionManagerInfo -->
+      <class name="com.qa.testcases.GetEmployeeCEOInfo">
+        <test-method status="PASS" signature="getEmployeeCEOTest()[pri:0, instance:com.qa.testcases.GetEmployeeCEOInfo@62ddbd7e]" name="getEmployeeCEOTest" duration-ms="32719" started-at="2018-12-23T09:03:48Z" finished-at="2018-12-23T09:04:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getEmployeeCEOTest -->
+      </class> <!-- com.qa.testcases.GetEmployeeCEOInfo -->
+      <class name="com.qa.testcases.GetEmployeePresidentInfo">
+        <test-method status="PASS" signature="getEmployeePresidentTest()[pri:0, instance:com.qa.testcases.GetEmployeePresidentInfo@74e52ef6]" name="getEmployeePresidentTest" duration-ms="26995" started-at="2018-12-23T09:04:21Z" finished-at="2018-12-23T09:04:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getEmployeePresidentTest -->
+      </class> <!-- com.qa.testcases.GetEmployeePresidentInfo -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
